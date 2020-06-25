@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "files.autoSaveDelay": 15000,
+    "workbench.iconTheme": "material-icon-theme"
+}
